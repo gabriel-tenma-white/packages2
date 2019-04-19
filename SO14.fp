@@ -1,0 +1,25 @@
+
+Element["" "Small outline package, narrow (150mil)" "" "SO14" 0.0000 0.0000 -20.00mil -60.00mil 0 100 ""]
+(
+	Pad[-135.00mil -150.00mil -70.00mil -150.00mil 20.00mil 10.00mil 30.00mil "1" "1" "square"]
+	Pad[-135.00mil -100.00mil -70.00mil -100.00mil 20.00mil 10.00mil 30.00mil "2" "2" "square"]
+	Pad[-135.00mil -50.00mil -70.00mil -50.00mil 20.00mil 10.00mil 30.00mil "3" "3" "square"]
+	Pad[-135.00mil 0.0000 -70.00mil 0.0000 20.00mil 10.00mil 30.00mil "4" "4" "square"]
+	Pad[-135.00mil 50.00mil -70.00mil 50.00mil 20.00mil 10.00mil 30.00mil "5" "5" "square"]
+	Pad[-135.00mil 100.00mil -70.00mil 100.00mil 20.00mil 10.00mil 30.00mil "6" "6" "square"]
+	Pad[-135.00mil 150.00mil -70.00mil 150.00mil 20.00mil 10.00mil 30.00mil "7" "7" "square"]
+	Pad[70.00mil 150.00mil 135.00mil 150.00mil 20.00mil 10.00mil 30.00mil "8" "8" "square,edge2"]
+	Pad[70.00mil 100.00mil 135.00mil 100.00mil 20.00mil 10.00mil 30.00mil "9" "9" "square,edge2"]
+	Pad[70.00mil 50.00mil 135.00mil 50.00mil 20.00mil 10.00mil 30.00mil "10" "10" "square,edge2"]
+	Pad[70.00mil 0.0000 135.00mil 0.0000 20.00mil 10.00mil 30.00mil "11" "11" "square,edge2"]
+	Pad[70.00mil -50.00mil 135.00mil -50.00mil 20.00mil 10.00mil 30.00mil "12" "12" "square,edge2"]
+	Pad[70.00mil -100.00mil 135.00mil -100.00mil 20.00mil 10.00mil 30.00mil "13" "13" "square,edge2"]
+	Pad[70.00mil -150.00mil 135.00mil -150.00mil 20.00mil 10.00mil 30.00mil "14" "14" "square,edge2"]
+	ElementLine [-155.00mil -170.00mil -155.00mil 170.00mil 10.00mil]
+	ElementLine [-155.00mil 170.00mil 155.00mil 170.00mil 10.00mil]
+	ElementLine [155.00mil 170.00mil 155.00mil -170.00mil 10.00mil]
+	ElementLine [-155.00mil -170.00mil -25.00mil -170.00mil 10.00mil]
+	ElementLine [155.00mil -170.00mil 25.00mil -170.00mil 10.00mil]
+	ElementArc [0.0000 -170.00mil 25.00mil 25.00mil 0.000000 180.000000 10.00mil]
+
+	)
