@@ -1,0 +1,25 @@
+
+Element["" "Thin shrink small outline package, standard (4.4mm)" "" "TSSOP14" 42.3000mm 27.8000mm -20.00mil -60.00mil 0 100 ""]
+(
+	Pad[-139.17mil -76.77mil -93.11mil -76.77mil 12.99mil 10.00mil 22.99mil "1" "1" "square"]
+	Pad[-139.17mil -51.18mil -93.11mil -51.18mil 12.99mil 10.00mil 22.99mil "2" "2" "square"]
+	Pad[-139.17mil -25.59mil -93.11mil -25.59mil 12.99mil 10.00mil 22.99mil "3" "3" "square"]
+	Pad[-139.17mil 0.0000 -93.11mil 0.0000 12.99mil 10.00mil 22.99mil "4" "4" "square"]
+	Pad[-139.17mil 25.59mil -93.11mil 25.59mil 12.99mil 10.00mil 22.99mil "5" "5" "square"]
+	Pad[-139.17mil 51.18mil -93.11mil 51.18mil 12.99mil 10.00mil 22.99mil "6" "6" "square"]
+	Pad[-139.17mil 76.77mil -93.11mil 76.77mil 12.99mil 10.00mil 22.99mil "7" "7" "square"]
+	Pad[93.11mil 76.77mil 139.17mil 76.77mil 12.99mil 10.00mil 22.99mil "8" "8" "square,edge2"]
+	Pad[93.11mil 51.18mil 139.17mil 51.18mil 12.99mil 10.00mil 22.99mil "9" "9" "square,edge2"]
+	Pad[93.11mil 25.59mil 139.17mil 25.59mil 12.99mil 10.00mil 22.99mil "10" "10" "square,edge2"]
+	Pad[93.11mil 0.0000 139.17mil 0.0000 12.99mil 10.00mil 22.99mil "11" "11" "square,edge2"]
+	Pad[93.11mil -25.59mil 139.17mil -25.59mil 12.99mil 10.00mil 22.99mil "12" "12" "square,edge2"]
+	Pad[93.11mil -51.18mil 139.17mil -51.18mil 12.99mil 10.00mil 22.99mil "13" "13" "square,edge2"]
+	Pad[93.11mil -76.77mil 139.17mil -76.77mil 12.99mil 10.00mil 22.99mil "14" "14" "square,edge2"]
+	ElementLine [-155.66mil -93.26mil -155.66mil 93.26mil 10.00mil]
+	ElementLine [-155.66mil 93.26mil 155.66mil 93.26mil 10.00mil]
+	ElementLine [155.66mil 93.26mil 155.66mil -93.26mil 10.00mil]
+	ElementLine [-155.66mil -93.26mil -25.00mil -93.26mil 10.00mil]
+	ElementLine [155.66mil -93.26mil 25.00mil -93.26mil 10.00mil]
+	ElementArc [0.0000 -93.26mil 25.00mil 25.00mil 0.000000 180.000000 10.00mil]
+
+	)
